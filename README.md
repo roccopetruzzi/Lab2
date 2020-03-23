@@ -1,23 +1,18 @@
-# Official Requirements Document
+# EZGas Requirements Document
 
-Authors: Maurizio Morisio, Luca Ardito, Riccardo Coppola
+Authors: Rocco Luigi Petruzzi
 
-Date: 29/05/2019
+Date: 23/03/2020
 
-Version: 5
+Version: 0
 
 Change history
 
 | Version | Changes | 
 | ----------------- |:-----------|
-| 2 | Fixed defect in [scenario 2](#scenario-2): precondition was wrong  |
+| 0 | Fixed defect in [scenario 2](#scenario-2): precondition was wrong  |
 | | Fixed defect in scenario [format](#relevant-scenarios): added post conditions |
 | | Fixed defect in [use case 2](#use-cases): variants text canceled |
-| 3 | Fixed defect in [use case 3]: recharge only positive|
-| |  Added Non functional requirement NFR5 |
-| 4 | Fixed defect in [use case 3]: post condition is on Colleague account, and LaTazza|
-| | Fixed defect in [use case 1]: post condition is on Colleague account, not LaTazza|
-| 5 | Fized defect in [use case 4]: precondition modified |
 
 # Contents
 - [Abstract](#abstract)
